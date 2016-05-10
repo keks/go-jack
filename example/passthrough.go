@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/xthexder/go-jack"
+	"github.com/keks/go-jack"
 )
 
 var channels int = 2
